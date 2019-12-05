@@ -22,10 +22,10 @@ func prime(numbers ...int) int {
 }
 
 // //GetPrima sdadadadadadasd
-// func GetPrima(X int)int {
+func GetPrima(X int) int {
 
-// 		for i := 1; i <= N; i++ {
+	for i := 1; i <= N; i++ {
 
-// 	}
+	}
 
-// }
+}
